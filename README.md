@@ -1,2 +1,2 @@
 # Keeper-App
-Created with CodeSandbox
+A clone of Google Keeper App.
